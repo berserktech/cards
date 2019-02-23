@@ -63,9 +63,9 @@ var scene = {
         id: "world",
         src: "resources/world.gltf"
       },
-      worldMap: { id: "worldmap", src: "/resources/Albedo.jpg" },
-      clouds: { id: "clouds", src: "/resources/transparent-clouds2.png" },
-      mountains: { id: "mountains", src: "/resources/bump-small.jpg" },
+      worldMap: { id: "worldmap", src: "./resources/Albedo.jpg" },
+      clouds: { id: "clouds", src: "./resources/transparent-clouds2.png" },
+      mountains: { id: "mountains", src: "./resources/bump-small.jpg" },
       cubetexture: {
         id: "cubetexture",
         type: "img",
@@ -271,7 +271,7 @@ for (var i = 1; i < 13; i++) {
           anchor: "left",
           zOffset: 0.11,
           width: 10,
-          font: "/resources/Times New Roman-msdf.json"
+          font: "./resources/Times New Roman-msdf.json"
         }
       };
     });
