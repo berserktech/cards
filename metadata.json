@@ -1,0 +1,1617 @@
+[
+  {
+    "github": "sadasant",
+    "card": {
+      "value": "A",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "Full-stack",
+      "ES6+",
+      "Go",
+      "responsive",
+      "reactive",
+      "resilient",
+      "real-time",
+      "large-scale",
+      "cloud",
+      "music",
+      "some category theory"
+    ],
+    "industries": [
+      "Social Networks",
+      "FinTech",
+      "Shipping",
+      "GovTech",
+      "IOT",
+      "Distributed"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/sadasant",
+        "text": "Twitter: @sadasant"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1-IQF3sKZ72jryJAzdiN1gZaVNYFOFimW3oO8BJYRsgM/edit?usp=sharing",
+        "text": "resume"
+      },
+      {
+        "link": "https://medium.com/sadasant",
+        "text": "medium"
+      },
+      {
+        "link": "https://sadasant.com/",
+        "text": "sadasant.com"
+      }
+    ]
+  },
+  {
+    "github": "aitbw",
+    "card": {
+      "value": "Q",
+      "type": "hearts"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2017",
+    "tags": ["open source", "ruby", "rails", "poliglot", "music"],
+    "industries": ["e-government", "govtech", "e-commerce"],
+    "links": [
+      {
+        "link": "https://twitter.com/AITBW",
+        "text": "Twitter: @AITBW"
+      },
+      {
+        "link": "https://www.linkedin.com/in/angelperez93/",
+        "text": "resume"
+      },
+      {
+        "link": "http://aitbw.github.io/",
+        "text": "website"
+      }
+    ]
+  },
+  {
+    "github": "adrianObel",
+    "card": {
+      "value": "10",
+      "type": "diamonds"
+    },
+    "location": "Canada",
+    "travelReady": true,
+    "since": "2012",
+    "tags": ["JS", "Python", "Serverless", "PubSub", "everything in between"],
+    "industries": ["FinTech", "HealthTech", "Social Media", "E-Comm"],
+    "links": [
+      {
+        "link": "https://twitter.com/obeladrian",
+        "text": "Twitter: @obeladrian"
+      },
+      {
+        "link": "https://www.linkedin.com/in/adrianobel/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "stefanmaric",
+    "card": {
+      "value": "10",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2011",
+    "tags": ["js", "cartujo", "web", "squirrels"],
+    "industries": ["SaaS", "FinTech", "many other projects"],
+    "links": [
+      {
+        "link": "https://twitter.com/stefanmaric_",
+        "text": "Twitter: @stefanmaric_"
+      },
+      {
+        "link": "https://www.linkedin.com/in/maricstefan",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "guerrerocarlos",
+    "card": {
+      "value": "7",
+      "type": "hearts"
+    },
+    "location": "Kiev and soon Madrid",
+    "travelReady": true,
+    "since": "2008",
+    "tags": ["JavaScript", "Serverless", "WebGL", "anything challenging"],
+    "industries": ["Government", "Proxy", "VPNs", "Streaming", "Weed", "Art"],
+    "links": [
+      {
+        "link": "https://twitter.com/guerrerocarlos",
+        "text": "Twitter: @guerrerocarlos"
+      },
+      {
+        "link": "https://carlosguerrero.com",
+        "text": "blog"
+      },
+      {
+        "link": "http://bit.ly/guerrerocarlos-CV",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "Rogergonzalez21",
+    "card": {
+      "value": "4",
+      "type": "diamonds"
+    },
+    "location": "Venezuela",
+    "travelReady": false,
+    "since": "2013",
+    "tags": ["nodejs", "python", "devops", "vps"],
+    "industries": ["tech", "social networks", "SEO"],
+    "links": [
+      {
+        "link": "https://twitter.com/rogergonzalez21",
+        "text": "Twitter: @rogergonzalez21"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1b0wnMD2448-wBOVvWVVWtSFWq2Vp5Ij-443wjdPqbVA/edit?usp=sharing",
+        "text": "resume"
+      },
+      {
+        "link": "https://rogs.me",
+        "text": "https://rogs.me"
+      }
+    ]
+  },
+  {
+    "github": "schoettler",
+    "card": {
+      "value": "J",
+      "type": "hearts"
+    },
+    "location": "Toronto, Ontario, Canada",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "es6",
+      "ts",
+      "react",
+      "angular",
+      "vue",
+      "mithril",
+      "jasmine",
+      "karma",
+      "jest",
+      "css",
+      "graphQl",
+      "node",
+      "go",
+      "sql",
+      "postgresql",
+      "mongodb"
+    ],
+    "industries": [
+      "health",
+      "financial",
+      "sports",
+      "collection",
+      "data viz",
+      "education"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/rober_vs",
+        "text": "Twitter: @rober_vs"
+      },
+      {
+        "link": "https://www.dropbox.com/s/lguzfo7s59ivvim/Roberto.%20Senior%20Modern%20JavaScript%20Developer.pdf?dl=0",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "Maat5",
+    "card": {
+      "value": "5",
+      "type": "diamonds"
+    },
+    "location": "Bogotá, Colombia",
+    "travelReady": true,
+    "since": "2014",
+    "tags": ["Node.js", "Angular", "Firebase Cloud Functions", "BigQuery"],
+    "industries": ["Rokk3r", "Biosistemika LLC", "SocialH4ck"],
+    "links": [
+      {
+        "link": "https://twitter.com/maat_f5",
+        "text": "Twitter: @maat_f5"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuelabrante/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "castrolem",
+    "card": {
+      "value": "4",
+      "type": "spades"
+    },
+    "location": "Barcelona, Spain",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "React",
+      "JavaScript",
+      "Redux",
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "CSS",
+      "HTML"
+    ],
+    "industries": ["Real estate", "mobility", "food"],
+    "links": [
+      {
+        "link": "https://twitter.com/castrolem",
+        "text": "Twitter: @castrolem"
+      },
+      {
+        "link": "https://es.linkedin.com/in/castrolem",
+        "text": "resume"
+      },
+      {
+        "link": "https://luiscastro.co",
+        "text": "luiscastro.co"
+      }
+    ]
+  },
+  {
+    "github": "jobliz",
+    "card": {
+      "value": "J",
+      "type": "spades"
+    },
+    "location": "Venezuela",
+    "travelReady": false,
+    "since": "2012",
+    "tags": ["python", "javascript", "sql", "scipy"],
+    "industries": ["research centers", "tech"],
+    "links": [
+      {
+        "link": "https://twitter.com/jobliz",
+        "text": "Twitter: @jobliz"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jjreyna/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "betacar",
+    "card": {
+      "value": "K",
+      "type": "hearts"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2005",
+    "tags": [
+      "JavaScript",
+      "Ruby on Rails",
+      "ESX",
+      "Node.js",
+      "Vue.js",
+      "Feathers.js",
+      "Mocha",
+      "Serverless",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "industries": [
+      "Genomics",
+      "Government",
+      "Metals",
+      "E-commerce",
+      "Furniture"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/betacar",
+        "text": "Twitter: @betacar"
+      },
+      {
+        "link": "https://linkedin.com/in/betacar",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "zentraedi",
+    "card": {
+      "value": "J",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": false,
+    "since": "2009",
+    "tags": [
+      "Data science",
+      "Spark",
+      "scipy",
+      "Python",
+      "bash",
+      "Linux",
+      "Mobile development"
+    ],
+    "industries": ["Airline", "Academic Research", "FIU", "Farelogix"],
+    "links": [
+      {
+        "link": "https://twitter.com/zentraedi",
+        "text": "Twitter: @zentraedi"
+      },
+      {
+        "link": "https://www.linkedin.com/in/hectorcen",
+        "text": "Resume"
+      }
+    ]
+  },
+  {
+    "github": "vctr90",
+    "card": {
+      "value": "8",
+      "type": "clubs"
+    },
+    "location": "St Catharines, ON Canada",
+    "travelReady": false,
+    "since": "2013",
+    "tags": ["JavaScript", "SQL", "Node", "Docker", "PHP", "HTML", "CSS"],
+    "industries": [
+      "Marketing",
+      "B2B for eComerce",
+      "Project Management",
+      "GovTech",
+      "Health",
+      "Social Networks"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/vctr90",
+        "text": "Twitter: @vctr90"
+      },
+      {
+        "link": "http://vctr90.herokuapp.com/",
+        "text": "website"
+      },
+      {
+        "link": "http://vctr90.github.io/",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.dropbox.com/s/3ijxkbnygzs9slm/CVdefinitive.pdf",
+        "text": "resume"
+      },
+      {
+        "link": "https://www.reddit.com/r/EarthPorn/",
+        "text": "breathtaking"
+      }
+    ]
+  },
+  {
+    "github": "asdrubalivan",
+    "card": {
+      "value": "7",
+      "type": "spades"
+    },
+    "location": "Valera, Venezuela (for now)",
+    "travelReady": true,
+    "since": "2014",
+    "tags": ["NodeJS", "ReactJS", "PHP"],
+    "industries": ["High Frequency Trading", "Finances"],
+    "links": [
+      {
+        "link": "https://twitter.com/asdrubalivan",
+        "text": "Twitter: @asdrubalivan"
+      },
+      {
+        "link": "https://ve.linkedin.com/in/asdrubalivan/en",
+        "text": "resume"
+      },
+      {
+        "link": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "github": "highercomve",
+    "card": {
+      "value": "A",
+      "type": "clubs"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": false,
+    "since": "2008",
+    "tags": ["JavaScript", "Ruby"],
+    "industries": [
+      "Fintech",
+      "Scientific Research",
+      "Education",
+      "Content Management",
+      "IOT"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/highercomve",
+        "text": "Twitter: @highercomve"
+      },
+      {
+        "link": "https://medium.com/@highercomve",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.linkedin.com/in/highercomve/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "Richzendy",
+    "card": {
+      "value": "5",
+      "type": "hearts"
+    },
+    "location": "San Cristóbal, Venezuela",
+    "travelReady": true,
+    "since": "2004",
+    "tags": [
+      "Linux",
+      "PHP",
+      "CSS",
+      "JavaScript",
+      "Docker",
+      "Email",
+      "Network",
+      "BASH",
+      "WordPress",
+      "Cloud",
+      "Proxies",
+      "Firewalls",
+      "DNS",
+      "Websites",
+      "Optimizations",
+      "HA"
+    ],
+    "industries": [
+      "Government",
+      "Startups",
+      "Automotive",
+      "E-Commerce",
+      "Newspaper"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/Richzendy",
+        "text": "Twitter: @Richzendy"
+      },
+      {
+        "link": "https://richzendy.org",
+        "text": "richzendy.org"
+      },
+      {
+        "link": "https://www.linkedin.com/in/richzendy",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "AeroCross",
+    "card": {
+      "value": "9",
+      "type": "clubs"
+    },
+    "location": "Australia",
+    "travelReady": true,
+    "since": "",
+    "tags": ["Ruby", "Ruby on Rails", "React", "Redux", "Postgres", "AWS"],
+    "industries": ["Hosting", "eCommerce", "eLearning"],
+    "links": [
+      {
+        "link": "https://twitter.com/aerocross",
+        "text": "Twitter: @aerocross"
+      },
+      {
+        "link": "https://mariocuba.net",
+        "text": "mariocuba.net"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mario-cuba-461474a6/?originalSubdomain=au",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "sebasmagri",
+    "card": {
+      "value": "3",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2007",
+    "tags": [
+      "Python",
+      "Rust",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL",
+      "Automation",
+      "IOT"
+    ],
+    "industries": [
+      "Oil and Gas",
+      "automation",
+      "advertising",
+      "cloud",
+      "marketing"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/sebasmagri",
+        "text": "Twitter: @sebasmagri"
+      },
+      {
+        "link": "",
+        "text": ""
+      },
+      {
+        "link": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "github": "fmontes",
+    "card": {
+      "value": "2",
+      "type": "diamonds"
+    },
+    "location": "San José, Costa Rica",
+    "travelReady": true,
+    "since": "2002",
+    "tags": [
+      "JavaScript",
+      "Angular",
+      "React",
+      "CSS",
+      "HTML",
+      "frontend",
+      "uidesign",
+      "node"
+    ],
+    "industries": ["Education", "Content Management", "eCommerce"],
+    "links": [
+      {
+        "link": "https://twitter.com/fmontes",
+        "text": "Twitter: @fmontes"
+      },
+      {
+        "link": "http://fmontes.com",
+        "text": "fmontes.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/fmontes/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "genesis3g",
+    "card": {
+      "value": "A",
+      "type": "hearts"
+    },
+    "location": "Venezuela",
+    "travelReady": true,
+    "since": "2013",
+    "tags": ["SQL", "Agile", "Selenium"],
+    "industries": ["QA", "e-Government"],
+    "links": [
+      {
+        "link": "https://twitter.com/Genesis_3G",
+        "text": "Twitter: @Genesis_3G"
+      },
+      {
+        "link": "https://blog.genesis3g.com",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.linkedin.com/in/genesis3g/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "sergebruni",
+    "card": {
+      "value": "7",
+      "type": "clubs"
+    },
+    "location": "Venezuela",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "Full-Stack",
+      "JS",
+      "CSS",
+      "PostgreSQL",
+      "MongoDB",
+      "music",
+      "perfumes"
+    ],
+    "industries": ["Social Network", "eCommerce", "warehouse", "distribution"],
+    "links": [
+      {
+        "link": "https://twitter.com/sergebruni",
+        "text": "Twitter: @sergebruni"
+      },
+      {
+        "link": "https://www.linkedin.com/in/sergebruni/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "p1nox",
+    "card": {
+      "value": "J",
+      "type": "clubs"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "Python",
+      "JavaScript",
+      "Postgre",
+      "Neptune",
+      "MongoDb",
+      "Machine Learning",
+      "Distributed Systems"
+    ],
+    "industries": [
+      "Fintech",
+      "Blockchain",
+      "Biotech",
+      "Bioinformatics",
+      "E-Commerce",
+      "Research"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/p1nox",
+        "text": "Twitter: @p1nox"
+      },
+      {
+        "link": "https://www.linkedin.com/in/p1nox",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "MadaMohamad",
+    "card": {
+      "value": "Q",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": false,
+    "since": "2005",
+    "tags": [
+      "Technology Law",
+      "Accessories",
+      "Design",
+      "Illustration",
+      "Management Tools",
+      "Sales"
+    ],
+    "industries": [
+      "Government",
+      "Customs",
+      "Manufacturing",
+      "Trade",
+      "Management"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/dll32exe",
+        "text": "Twitter: @dll32exe"
+      },
+      {
+        "link": "http://Mada.ninja",
+        "text": "Mada.ninja"
+      },
+      {
+        "link": "http://linked.com/madamohamad",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "satanas",
+    "card": {
+      "value": "6",
+      "type": "spades"
+    },
+    "location": "Seattle",
+    "travelReady": true,
+    "since": "2006",
+    "tags": [
+      "Gamedev",
+      "Python",
+      "JavaScript",
+      "resilient",
+      "real-time",
+      "large-scale",
+      "Java",
+      "C#"
+    ],
+    "industries": ["eCommerce", "consulting", "videogames", "food"],
+    "links": [
+      {
+        "link": "https://twitter.com/satanas82",
+        "text": "Twitter: @satanas82"
+      },
+      {
+        "link": "https://satanas.io",
+        "text": "satanas.io"
+      },
+      {
+        "link": "https://www.linkedin.com/in/wilalejandro/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "BlackHarpy",
+    "card": {
+      "value": "Q",
+      "type": "diamonds"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Angular",
+      "TypeScript",
+      "React Native",
+      "Django",
+      "Agile",
+      "TDD",
+      "Scrum"
+    ],
+    "industries": ["Health", "Finance", "Tech"],
+    "links": [
+      {
+        "link": "https://twitter.com/BlackHarpy",
+        "text": "Twitter: @BlackHarpy"
+      },
+      {
+        "link": "https://medium.com/@BlackHarpy",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mariacastro87/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "ivanacostarubio",
+    "card": {
+      "value": "7",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2006",
+    "tags": ["Ruby", "Rust", "Elm"],
+    "industries": ["Legal", "Travel", "Finance"],
+    "links": [
+      {
+        "link": "https://twitter.com/ivanacostarubio",
+        "text": "Twitter: @ivanacostarubio"
+      },
+      {
+        "link": "https://ivanacostarubio.com",
+        "text": "ivanacostarubio.com"
+      },
+      {
+        "link": "ivanacostarubio.com",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "javjar",
+    "card": {
+      "value": "K",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2007",
+    "tags": ["AWS", "MySQL", "Redis", "ELK", "Docker", "Go", "JavaScript"],
+    "industries": ["Universities", "Banking", "Video Game"],
+    "links": [
+      {
+        "link": "https://twitter.com/javjar",
+        "text": "Twitter: @javjar"
+      },
+      {
+        "link": "http://www.javjar.com/",
+        "text": "javjar.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/javjar/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pctroll",
+    "card": {
+      "value": "K",
+      "type": "spades"
+    },
+    "location": "Santiago, CL",
+    "travelReady": true,
+    "since": "2009",
+    "tags": ["Unity", "Unity3d", "C#", "Game Development", "GameDev"],
+    "industries": ["Game Development", "GameDev", "Advertising"],
+    "links": [
+      {
+        "link": "https://twitter.com/pctroll",
+        "text": "Twitter: @pctroll"
+      },
+      {
+        "link": "https://jorge.palacios.rocks/",
+        "text": "jorge.palacios.rocks"
+      },
+      {
+        "link": "https://www.linkedin.com/in/pctroll",
+        "text": "resume"
+      },
+      {
+        "link": "https://www.twitch.com/reefaktor",
+        "text": "my twitch gamedev channel"
+      }
+    ]
+  },
+  {
+    "github": "Cleyrauz",
+    "card": {
+      "value": "A",
+      "type": "diamonds"
+    },
+    "location": "Glasgow, Scotland",
+    "travelReady": true,
+    "since": "2018",
+    "tags": ["React", "VueJS", "JavaScript", "HTML", "CSS", "React Native"],
+    "industries": ["Real Estate", "Health and Social Care", "Retail"],
+    "links": [
+      {
+        "link": "https://twitter.com/cleyrauc",
+        "text": "Twitter: @cleyrauc"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cleyrauzcategui/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pankas87",
+    "card": {
+      "value": "8",
+      "type": "hearts"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": true,
+    "since": "2010",
+    "tags": ["Ruby", "Java", "JavaScript", "CSS"],
+    "industries": ["Geographical Systems", "Airlines", "E-Commerce"],
+    "links": [
+      {
+        "link": "https://twitter.com/pankas87",
+        "text": "Twitter: @pankas87"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leonardo-graterol-24863223/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pattyneta",
+    "card": {
+      "value": "3",
+      "type": "clubs"
+    },
+    "location": "Glasgow, Scotland",
+    "travelReady": false,
+    "since": "1999",
+    "tags": [
+      "PHP",
+      "Drupal",
+      "Laravel",
+      "WordPress",
+      "MySQL",
+      "JavaScript",
+      "CSS",
+      "Java",
+      "AI Ethics"
+    ],
+    "industries": [
+      "B2B",
+      "Education",
+      "Finances",
+      "Early Social Networks",
+      "GovTech",
+      "eCommerce",
+      "Marketing",
+      "Travel",
+      "Legal",
+      "Telecommunications",
+      "Health"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/pattyneta",
+        "text": "Twitter: @pattyneta"
+      },
+      {
+        "link": "https://www.linkedin.com/in/patricia-o-callaghan-a9a29a7",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "despinozac",
+    "card": {
+      "value": "3",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2009",
+    "tags": ["Ruby", "Python", "Rails", "Java", "data eng"],
+    "industries": ["biotech", "microbiome", "law"],
+    "links": [
+      {
+        "link": "https://twitter.com/despinoza85",
+        "text": "Twitter: @despinoza85"
+      },
+      {
+        "link": "https://www.linkedin.com/in/daniel-espinoza-34225b19/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "krhil",
+    "card": {
+      "value": "3",
+      "type": "hearts"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": false,
+    "since": "2014",
+    "tags": ["Java", "Spring Boot", "jQuery"],
+    "industries": [
+      "Government",
+      "Education",
+      "Bank Investments",
+      "Retail Stores"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/krhil",
+        "text": "Twitter: @krhil"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1SeRMklcPIj_k3OWoCEjc3anZdodutHWhCZFPgflhDCM/edit?usp=sharing",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "zeitan",
+    "card": {
+      "value": "4",
+      "type": "hearts"
+    },
+    "location": "San José, CA",
+    "travelReady": true,
+    "since": "1995",
+    "tags": ["Scala", "Ruby", "Java"],
+    "industries": ["Electric factories", "Industrial Factories", "eCommerce"],
+    "links": [
+      {
+        "link": "https://twitter.com/antonbas",
+        "text": "Twitter: @antonbas"
+      },
+      {
+        "link": "http://www.linkedin.com/in/antonio-bastardo-l1-visa-6296704",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "tsakiro",
+    "card": {
+      "value": "5",
+      "type": "clubs"
+    },
+    "location": "Norway",
+    "travelReady": false,
+    "since": "2013",
+    "tags": ["CSS", "HTML", "JS*", "WordPress", "Magento", "Statamic"],
+    "industries": ["Fashion", "E-Commerce", "Parcel Delivery", "ISP"],
+    "links": [
+      {
+        "link": "https://twitter.com/tsakiro",
+        "text": "Twitter: @tsakiro"
+      },
+      {
+        "link": "https://codepen.io/tsakiro/",
+        "text": "CSS drawings"
+      },
+      {
+        "link": "https://www.linkedin.com/in/tsakiro/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "manuelitox",
+    "card": {
+      "value": "10",
+      "type": "clubs"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "ES6+",
+      "React",
+      "Next.js",
+      "Redux",
+      "GraphQL",
+      "Jest",
+      "Styled-Components",
+      "CSS"
+    ],
+    "industries": ["Real estate", "Health", "Fintech"],
+    "links": [
+      {
+        "link": "https://twitter.com/Manuelitox",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "belgrades",
+    "card": {
+      "value": "Q",
+      "type": "clubs"
+    },
+    "location": "Roma",
+    "travelReady": false,
+    "since": "2006",
+    "tags": [
+      "Spark",
+      "Hadoop",
+      "Pandas",
+      "Numpy",
+      "Scipy",
+      "BeautifulSoup (bs4)",
+      "Falcon",
+      "Spring",
+      "cvxopt",
+      "scikit-learn"
+    ],
+    "industries": ["Predictvia", "Domusware", "UCV"],
+    "links": [
+      {
+        "link": "https://twitter.com/FernandoCremaG",
+        "text": "Twitter: @FernandoCremaG"
+      },
+      {
+        "link": "http://fernandocrema.me/files/CV_fernando_crema_en.pdf",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "eduartua",
+    "card": {
+      "value": "2",
+      "type": "hearts"
+    },
+    "location": "Monterrey",
+    "travelReady": true,
+    "since": "2016",
+    "tags": ["Golang", "Linux", "Web Development"],
+    "industries": [
+      "Onbie SA de Cv",
+      "Cbac del Norte",
+      "Kubernetes Organization"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/eduartua",
+        "text": "Twitter: @eduartua"
+      },
+      {
+        "link": "https://eduartua.com/",
+        "text": "eduartua.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "webjac",
+    "card": {
+      "value": "2",
+      "type": "clubs"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2003",
+    "tags": ["UX", "Design", "WordPress", "php", "HTML", "CSS", "JavaScript"],
+    "industries": [
+      "Insurance",
+      "banking",
+      "international organizations",
+      "consulting"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/webjac",
+        "text": "Twitter: @webjac"
+      },
+      {
+        "link": "https://webjac.com/",
+        "text": "webjac.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "ajmarquez",
+    "card": {
+      "value": "5",
+      "type": "spades"
+    },
+    "location": "Berlin",
+    "travelReady": true,
+    "since": "2014",
+    "tags": [
+      "iOS",
+      "Swift",
+      "Hardware",
+      "IoT",
+      "GPS",
+      "Wireless Communications"
+    ],
+    "industries": ["Startups", "Automotive"],
+    "links": [
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "medium"
+      },
+      {
+        "link": "https://twitter.com/ajmarquez",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "CoffeeNight",
+    "card": {
+      "value": "4",
+      "type": "clubs"
+    },
+    "location": "Singapore",
+    "travelReady": true,
+    "since": "2012",
+    "tags": [
+      "Python",
+      "Django",
+      "vuejs",
+      "linux",
+      "ELK",
+      "Postgres",
+      "Redis",
+      "Electronic design"
+    ],
+    "industries": [
+      "Travel",
+      "Social Media",
+      "Ecommerce",
+      "Oil",
+      "Telecommunications"
+    ],
+    "links": [
+      {
+        "link": "https://www.linkedin.com/in/edgarricardo/?locale=en_US",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "LuisAlejandro",
+    "card": {
+      "value": "K",
+      "type": "clubs"
+    },
+    "location": "Maracay, Venezuela",
+    "travelReady": false,
+    "since": "2003",
+    "tags": [
+      "linux",
+      "node",
+      "python",
+      "php",
+      "bash",
+      "make",
+      "docker",
+      "continuous integration",
+      "wordpress",
+      "jekyll",
+      "django",
+      "angular",
+      "jquery",
+      "vue.js",
+      "anime.js"
+    ],
+    "industries": [
+      "government",
+      "research",
+      "automotive",
+      "startups",
+      "telecommunications"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/LuisAlejandro",
+        "text": "Twitter: @LuisAlejandro"
+      },
+      {
+        "link": "http://luisalejandro.org",
+        "text": "personal page"
+      },
+      {
+        "link": "https://www.linkedin.com/in/martinezfaneyth",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "MauHernandez",
+    "card": {
+      "value": "10",
+      "type": "hearts"
+    },
+    "location": "Argentina",
+    "travelReady": true,
+    "since": "2010",
+    "tags": [
+      "ES6+",
+      "React",
+      "Vue.js",
+      "Redux",
+      "Styled-Components",
+      "CSS",
+      "PHP",
+      "Wordpress",
+      "Python",
+      "Django",
+      "bash scripting",
+      "linux networking"
+    ],
+    "industries": [
+      "Marketing",
+      "B2B software",
+      "Telecommunications",
+      "e-Government",
+      "e-Comm",
+      "Internet Governance"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/mauhernandezg",
+        "text": "Twitter: @mauhernandezg"
+      },
+      {
+        "link": "mauhernandez.github.io",
+        "text": "website"
+      },
+      {
+        "link": "http://mauhernandez.github.io/Maureen_Hernandez_resume.pdf",
+        "text": "resume"
+      },
+      {
+        "link": "https://linkedin.com/in/maureenhernandez",
+        "text": "LinkedIn"
+      },
+      {
+        "link": "http://ula.academia.edu/MaureenHernandez",
+        "text": "Academia"
+      }
+    ]
+  },
+  {
+    "github": "ghostbar",
+    "card": {
+      "value": "8",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "1997",
+    "tags": [
+      "Go",
+      "Docker",
+      "MySQL",
+      "PostgreSQL",
+      "Kubernetes",
+      "Bash",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "industries": ["Small Startups", "Security", "Open Source"],
+    "links": [
+      {
+        "link": "https://twitter.com/joseluisrivas",
+        "text": "Twitter: @joseluisrivas"
+      },
+      {
+        "link": "https://twitter.com/ghostbar",
+        "text": "Twitter: @ghostbar"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ghostbar/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "gubatron",
+    "card": {
+      "value": "8",
+      "type": "diamonds"
+    },
+    "location": "Denver, CO",
+    "travelReady": true,
+    "since": "2002",
+    "tags": [
+      "Java",
+      "C",
+      "C++",
+      "Python",
+      "PHP",
+      "HTML",
+      "JS",
+      "CSS",
+      "Bash",
+      "Linux",
+      "Ubuntuing since 2005",
+      "SQL",
+      "MySQL",
+      "AWS",
+      "cmake"
+    ],
+    "industries": [
+      "Media",
+      "File sharing",
+      "P2P Networking",
+      "Gnutella",
+      "BitTorrent",
+      "Blockchain",
+      "News",
+      "Mobile Media"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/gubatron",
+        "text": "Twitter: @gubatron"
+      },
+      {
+        "link": "http://www.gubatron.com",
+        "text": "gubatron.com"
+      },
+      {
+        "link": "http://www.gubatron.com/blog/",
+        "text": "blog"
+      },
+      {
+        "link": "https://medium.com/@gubatron",
+        "text": "medium"
+      },
+      {
+        "link": "https://frostwire.com",
+        "text": "Free BitTorrent Client for Desktop and Android"
+      }
+    ]
+  },
+  {
+    "github": "edgar",
+    "card": {
+      "value": "9",
+      "type": "picas"
+    },
+    "location": "NYC",
+    "travelReady": true,
+    "since": "1988",
+    "tags": ["Ruby", "Go", "RDBMS", "GraphQL", "gRPC", "REST"],
+    "industries": [
+      "Real Estate",
+      "Retail",
+      "Internet",
+      "Telecom",
+      "Insurance",
+      "Banking"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/edgar",
+        "text": "Twitter: @edgar"
+      },
+      {
+        "link": "http://gonzalez.io",
+        "text": "gonzalez.io"
+      },
+      {
+        "link": "https://www.linkedin.com/in/edgargonzalezg/",
+        "text": "resume"
+      },
+      {
+        "link": "http://medium.com/@edgar",
+        "text": "medium"
+      }
+    ]
+  },
+  {
+    "github": "josevill",
+    "card": {
+      "value": "9",
+      "type": "diamonds"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2003",
+    "tags": [
+      "Distributed",
+      "Full-stack",
+      "Go",
+      "Elixir",
+      "Electron",
+      "AWS",
+      "ELK",
+      "Docker",
+      "Rundeck"
+    ],
+    "industries": ["Logistics", "IOT", "Wholesales"],
+    "links": [
+      {
+        "link": "https://twitter.com/anotherspanish",
+        "text": "Twitter: @anotherspanish"
+      },
+      {
+        "link": "http://joseviloria.tech",
+        "text": "joseviloria.tech"
+      },
+      {
+        "link": "https://linkedin.com/in/kbono",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "mirabalj",
+    "card": {
+      "value": "6",
+      "type": "clubs"
+    },
+    "location": "Medellin, Colombia",
+    "travelReady": false,
+    "since": "1990",
+    "tags": [
+      "NodeJS",
+      "JavaScript",
+      "ES6",
+      "Python",
+      "React",
+      "Angular",
+      "PHP",
+      "MongoDB",
+      "NoSQL",
+      "MySQL",
+      "Lean Startup",
+      "C/C++",
+      "GNU/Linux",
+      "Docker",
+      "HTML/CSS"
+    ],
+    "industries": [
+      "Digital Content Distribution",
+      "Support and improvement for Startups",
+      "Entrepreneurship",
+      "Education",
+      "Purchasing Management"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/iamjinme",
+        "text": "Twitter: @iamjinme"
+      },
+      {
+        "link": "http://jinme.co",
+        "text": "jinme.co"
+      }
+    ]
+  },
+  {
+    "github": "gassius",
+    "card": {
+      "value": "2",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": false,
+    "since": "1997",
+    "tags": ["Js", "php", "laravel", "vue"],
+    "industries": ["Media", "Advertisement", "e-learning", "govt"],
+    "links": [
+      {
+        "link": "https://twitter.com/gassius",
+        "text": "Twitter: @gassius"
+      },
+      {
+        "link": "https://carlos.gonzalezri.co",
+        "text": "carlos.gonzalezri.co"
+      },
+      {
+        "link": "http://linkedin.com/cgonzalezr",
+        "text": "resume"
+      }
+    ]
+  }
+]
