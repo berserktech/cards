@@ -1,11 +1,11 @@
 AFRAME.registerComponent("my-material", {
   init: function() {
-    this.color = new THREE.TextureLoader().load("/resources/cube/color.jpg")
+    this.color = new THREE.TextureLoader().load("resources/cube/color.jpg")
     this.material = new THREE.MeshStandardMaterial({
       // map: new THREE.TextureLoader().load("/resources/cube/color.jpg"),
-      normalMap: new THREE.TextureLoader().load( "/resources/cube/normal.jpg" ),
+      normalMap: new THREE.TextureLoader().load( "resources/cube/normal.jpg" ),
       // normalScale: new THREE.Vector2( 0.1, 0.1 ),
-      roughnessMap: new THREE.TextureLoader().load("/resources/cube/reflex.jpg")
+      roughnessMap: new THREE.TextureLoader().load("resources/cube/reflex.jpg")
     });
 
     this.el.addEventListener("model-loaded", () => this.update());
